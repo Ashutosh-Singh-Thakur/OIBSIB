@@ -58,12 +58,13 @@ Please note that users will need a Google account to access and run the code on 
 
 ### Task 1: Iris Flower Classification
 
-The Iris Flower Classification task aimed to train a machine learning model to categorize iris flowers into their respective species. The model was trained using the Random Forest Classifier. Key findings include:
+The Iris Flower Classification task aimed to train a machine learning model to categorize iris flowers into their respective species. The model was trained using the K Neighbors Classifier and Logistic Regression. Key findings include:
 
-- **Model Accuracy:** The trained model achieved an accuracy of 100% on the test dataset.
+- **Model Accuracy:** The K Neighbors Classifier demonstrated perfect accuracy (100%), while the Logistic Regression model achieved a commendable accuracy of 94.96% on the test dataset.
 - **Confusion Matrix:** The confusion matrix provides insights into the model's performance across different classes.
 
-![Confusion Matrix](https://github.com/Ashutosh-Singh-Thakur/OIBSIP/assets/128626139/d9ebc721-0315-4f2d-9bfa-d581346acfe9)
+![Confusion Matrix](https://github.com/Ashutosh-Singh-Thakur/OIBSIP/assets/128626139/44aadb53-33a9-4e30-9b72-ffe4f562e05f)
+
 
 
 ### Task 2: Unemployment Analysis with Python
