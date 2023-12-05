@@ -25,7 +25,7 @@ To successfully complete the Oasis Infobyte Data Science Virtual Internship, par
 
 - **Objective:** Train a machine learning model to classify iris flowers into their respective species (setosa, versicolor, virginica) based on their measurements.
 - **Implementation:** Utilize machine learning techniques to analyze and classify iris flower species.
-- **Results:** [Link to Task 1 Code](TASK-1/Iiri-Flower-Classification.ipynb)
+- **Results:** [Link to Task 1 Code](TASK-1/Iris-Flower-Classification.ipynb)
 
 ![Task 1 Screenshot](https://github.com/Ashutosh-Singh-Thakur/OIBSIB/assets/128626139/3d1463d0-77b6-494e-bdcf-6c0b38c6ca1d)
 
@@ -34,7 +34,7 @@ To successfully complete the Oasis Infobyte Data Science Virtual Internship, par
 - **Objective:** Analyze and explore unemployment rates, particularly during the Covid-19 period, using Python.
 - **Implementation:** Use Python for data analysis and visualization to gain insights into unemployment trends.
 - **Dataset:** [Download Unemployment Dataset](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-- **Results:** [Link to Task 2 Code](TASK-2/Unemployement-Analysis.ipynb)
+- **Results:** [Link to Task 2 Code](TASK-2/Unemployment-Analysis.ipynb)
 
 ![Task 2 Screenshot](https://github.com/Ashutosh-Singh-Thakur/OIBSIB/assets/128626139/6322754a-8b2b-45a5-b177-a8f209e08d6d)
 
@@ -51,15 +51,6 @@ To successfully complete the Oasis Infobyte Data Science Virtual Internship, par
 
 To execute the code for tasks, you can leverage Google Colab for an interactive and collaborative environment. Simply click on the Colab icon at the top left of the `.ipynb` file in each task directory.
 
-### Task 2 and Task 3 Datasets
-
-For tasks 2 and 3, datasets need to be uploaded. You can use the following links to access the datasets directly on Google Colab without downloading them to your local machine:
-
-- **Task 2 Dataset**: [Task2_data.csv](https://colab.research.google.com/github/Ashutosh-Singh-Thakur/OIBSIB/blob/main/TASK-2/Unemployement%20inI%20ndia.csv)
-- **Task 3 Dataset**: [Task3_data.csv](https://colab.research.google.com/github/Ashutosh-Singh-Thakur/OIBSIB/blob/main/TASK-3/car%20data.csv)
-
-Click on the links above, and it will open the respective dataset on Google Colab. You can then run the code with the provided dataset directly.
-
 Please note that users will need a Google account to access and run the code on Google Colab.
 
 
@@ -72,7 +63,8 @@ The Iris Flower Classification task aimed to train a machine learning model to c
 - **Model Accuracy:** The trained model achieved an accuracy of 100% on the test dataset.
 - **Confusion Matrix:** The confusion matrix provides insights into the model's performance across different classes.
 
-![Confusion Matrix](task1/results/task1_confusion_matrix.png)
+![Confusion Matrix](https://github.com/Ashutosh-Singh-Thakur/OIBSIP/assets/128626139/d9ebc721-0315-4f2d-9bfa-d581346acfe9)
+
 
 ### Task 2: Unemployment Analysis with Python
 
